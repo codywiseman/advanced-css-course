@@ -1,0 +1,12 @@
+{
+  "name": "Natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
